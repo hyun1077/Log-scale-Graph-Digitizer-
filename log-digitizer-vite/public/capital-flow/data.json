@@ -1,0 +1,16 @@
+{
+  "asOf": "2026-08-12",
+  "updatedAt": "2026-08-14T22:35:00+09:00",
+  "fedAssetsB": 6760.0,
+  "fedAssetsDeltaB": 11.4,
+  "reservesB": 2948.0,
+  "reservesDeltaB": -55.1,
+  "tgaB": 959.4,
+  "tgaDeltaB": 30.1,
+  "rrpOthersB": 0.725,
+  "financialLiquidityScore": -0.9,
+  "investmentFlowScore": 1.4,
+  "financialConditionsScore": 0.1,
+  "capitalFlowScore": 0.3,
+  "note": "Official H.4.1 values; investment and market scores are model estimates."
+}
