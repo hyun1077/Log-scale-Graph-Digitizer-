@@ -9,8 +9,9 @@
   "tgaDeltaB": 30.1,
   "rrpOthersB": 0.725,
   "financialLiquidityScore": -0.9,
-  "investmentFlowScore": 1.35,
+  "investmentFlowScore": 0.18,
   "financialConditionsScore": 0.1,
-  "capitalFlowScore": 0.09,
-  "note": "Official H.4.1 values; investment and market scores are model estimates. Headline score weights: financial liquidity 45%, investment flow 35%, financial conditions 20%."
+  "capitalFlowScore": -0.32,
+  "note": "Official H.4.1 values; investment and market scores are model estimates. Headline score weights: financial liquidity 45%, investment flow 35%, financial conditions 20%.",
+  "investmentUpdatedAt": "2026-08-14T23:54:22.632828+00:00"
 }
