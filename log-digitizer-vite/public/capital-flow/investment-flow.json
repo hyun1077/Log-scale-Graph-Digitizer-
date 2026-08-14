@@ -1,0 +1,17 @@
+{
+  "updatedAt": "2026-08-15T05:55:00+09:00",
+  "methodology": {
+    "stageWeights": {"commitment": 0.10, "selected": 0.25, "financing": 0.50, "deployed": 1.00},
+    "description": "Nominal announcements are discounted by execution stage; deployed capital receives full weight. Scores are directional model outputs, not dollar-for-dollar monetary liquidity."
+  },
+  "items": [
+    {"id":"japan-550","name":"Japan U.S. investment framework","category":"Foreign Investment","amountB":550,"stage":"selected","weight":0.25,"sector":"Energy / Semiconductors / AI / Manufacturing","source":"White House","url":"https://www.whitehouse.gov/fact-sheets/2025/10/28195/","verified":true,"note":"Framework includes up to $332B of critical energy infrastructure projects, including AP1000 and SMRs."},
+    {"id":"korea-strategic","name":"Korea strategic U.S. investment","category":"Foreign Investment","amountB":200,"stage":"commitment","weight":0.10,"sector":"Shipbuilding / Energy / Semiconductors / AI","source":"White House","url":"https://www.whitehouse.gov/fact-sheets/2025/11/joint-fact-sheet-on-president-donald-j-trumps-meeting-with-president-lee-jae-myung/","verified":true,"note":"Separate $150B shipbuilding investment is described as approved; this record tracks the additional $200B strategic investment MOU."},
+    {"id":"nvidia-compute-finance","name":"NVIDIA compute financing platforms","category":"Private Credit","amountB":500,"stage":"financing","weight":0.50,"sector":"AI Infrastructure / GPU / Data Centers","source":"Reuters / NVIDIA announcement","url":"https://www.reuters.com/technology/wall-street-giants-partner-with-nvidia-500-billion-ai-financing-deal-ft-reports-2026-08-10/","verified":true,"note":"Third-party capital target; NVIDIA may backstop up to $125B. No full deployment timetable disclosed."},
+    {"id":"doe-smr","name":"DOE TVA + Holtec SMR funding","category":"Federal Policy","amountB":0.8,"stage":"selected","weight":0.25,"sector":"Nuclear / SMR","source":"U.S. Department of Energy","url":"https://www.energy.gov/articles/energy-department-selects-tva-and-holtec-advance-deployment-us-small-modular-reactors","verified":true,"note":"Up to $800M federal cost-shared funding for early SMR deployments."},
+    {"id":"doe-uranium","name":"DOE domestic uranium enrichment awards","category":"Federal Policy","amountB":2.7,"stage":"financing","weight":0.50,"sector":"Nuclear Fuel / Uranium","source":"U.S. Department of Energy","url":"https://www.energy.gov/powering-americas-ai-future-data-center-resource-hub","verified":true,"note":"DOE describes $2.7B awards to strengthen domestic uranium enrichment capabilities."},
+    {"id":"hyperscaler-capex","name":"2026 Big Tech AI outlays","category":"Hyperscaler CAPEX","amountB":730,"stage":"deployed","weight":1.00,"sector":"AI / Data Centers / Power","source":"Reuters company guidance aggregation","url":"https://www.reuters.com/legal/transactional/private-credit-roundup-nvidias-half-trillion-chips-financing-plus-others-2026-08-14/","verified":true,"note":"Combined 2026 Big Tech AI-related outlays are expected to surpass $730B; treated as active annual CAPEX pipeline rather than a single cash injection."}
+  ],
+  "categoryScores": {"Private Credit":1.5,"Foreign Investment":1.0,"Hyperscaler CAPEX":1.6,"Federal Policy":0.8},
+  "investmentFlowScore": 1.35
+}
