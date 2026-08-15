@@ -1,6 +1,13 @@
 name: Update US Capital Flow Data
 
 on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'scripts/update_capital_flow.py'
+      - 'scripts/update_stock_signals.py'
+      - 'log-digitizer-vite/public/capital-flow/**'
+      - '.github/workflows/update-capital-flow.yml'
   schedule:
     - cron: '20 23 * * 1-5'
   workflow_dispatch:
