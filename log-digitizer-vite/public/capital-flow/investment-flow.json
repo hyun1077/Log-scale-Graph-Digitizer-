@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T23:52:48.929341+00:00",
+  "updatedAt": "2026-08-20T23:54:07.558450+00:00",
   "methodology": {
     "stageWeights": {
       "commitment": 0.1,
@@ -22,7 +22,7 @@
       "url": "https://www.whitehouse.gov/fact-sheets/2025/10/28195/",
       "verified": true,
       "note": "Framework includes up to $332B of critical energy infrastructure projects, including AP1000 and SMRs.",
-      "lastChecked": "2026-08-19T23:52:47.376261+00:00"
+      "lastChecked": "2026-08-20T23:54:06.239960+00:00"
     },
     {
       "id": "korea-strategic",
@@ -36,7 +36,7 @@
       "url": "https://www.whitehouse.gov/fact-sheets/2025/11/joint-fact-sheet-on-president-donald-j-trumps-meeting-with-president-lee-jae-myung/",
       "verified": true,
       "note": "Separate $150B shipbuilding investment is described as approved; this record tracks the additional $200B strategic investment MOU.",
-      "lastChecked": "2026-08-19T23:52:47.430256+00:00"
+      "lastChecked": "2026-08-20T23:54:06.275169+00:00"
     },
     {
       "id": "nvidia-compute-finance",
@@ -50,7 +50,7 @@
       "url": "https://www.reuters.com/technology/wall-street-giants-partner-with-nvidia-500-billion-ai-financing-deal-ft-reports-2026-08-10/",
       "verified": false,
       "note": "Third-party capital target; NVIDIA may backstop up to $125B. No full deployment timetable disclosed.",
-      "lastChecked": "2026-08-19T23:52:47.727379+00:00",
+      "lastChecked": "2026-08-20T23:54:06.393852+00:00",
       "checkError": "HTTP Error 401: HTTP Forbidden"
     },
     {
@@ -65,7 +65,7 @@
       "url": "https://www.energy.gov/articles/energy-department-selects-tva-and-holtec-advance-deployment-us-small-modular-reactors",
       "verified": true,
       "note": "Up to $800M federal cost-shared funding for early SMR deployments.",
-      "lastChecked": "2026-08-19T23:52:47.945989+00:00"
+      "lastChecked": "2026-08-20T23:54:06.616150+00:00"
     },
     {
       "id": "doe-uranium",
@@ -79,7 +79,7 @@
       "url": "https://www.energy.gov/powering-americas-ai-future-data-center-resource-hub",
       "verified": true,
       "note": "DOE describes $2.7B awards to strengthen domestic uranium enrichment capabilities.",
-      "lastChecked": "2026-08-19T23:52:48.887025+00:00"
+      "lastChecked": "2026-08-20T23:54:07.502623+00:00"
     },
     {
       "id": "hyperscaler-capex",
@@ -93,7 +93,7 @@
       "url": "https://www.reuters.com/legal/transactional/private-credit-roundup-nvidias-half-trillion-chips-financing-plus-others-2026-08-14/",
       "verified": false,
       "note": "Combined 2026 Big Tech AI-related outlays are expected to surpass $730B; treated as active annual CAPEX pipeline rather than a single cash injection.",
-      "lastChecked": "2026-08-19T23:52:48.929157+00:00",
+      "lastChecked": "2026-08-20T23:54:07.558281+00:00",
       "checkError": "HTTP Error 401: HTTP Forbidden"
     }
   ],
